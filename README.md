@@ -1,10 +1,4 @@
 # Personal-Fitness-Tracker
-Here's a sample README for your "Personal-Fitness-Tracker" app using Streamlit:
-
----
-
-# Personal Fitness Tracker
-
 ## Overview
 The **Personal Fitness Tracker** is a web application built with **Streamlit** that helps users track their fitness goals, monitor their daily activity, and visualize their progress. Users can input their daily workouts, log their meals, and view progress over time with simple, intuitive graphs. 
 
@@ -65,6 +59,4 @@ Feel free to fork the repository, make changes, and submit pull requests. For ma
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-You can adjust the details, such as the features or dependencies, based on the exact functionality of your app.
