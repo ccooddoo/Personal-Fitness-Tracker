@@ -10,6 +10,7 @@ A Streamlit web app to track fitness goals, log workouts, monitor meals, and vis
 ✅ View progress with charts and graphs  
 ✅ Review activity history  
 
+
 ## **Live Demo**  
 🔗 [Streamlit App](https://personal-fitness-tracker-kjqr33x2p4qza2akdjxmzu.streamlit.app/)  
 
@@ -24,3 +25,4 @@ Fork the repo, make changes, and submit a pull request.
 
 ## **License**  
 Licensed under the MIT License. See [LICENSE](LICENSE) for details.  
+
