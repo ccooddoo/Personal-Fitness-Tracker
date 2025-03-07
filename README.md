@@ -12,7 +12,7 @@ A Streamlit web app to track fitness goals, log workouts, monitor meals, and vis
 
 
 ## **Live Demo**  
-🔗  
+🔗  [Streamlit App](https://personal-fitness-tracker-d4lujaf5tqfcepdkgapbzn.streamlit.app/) 
 
 ## **Technologies Used**  
 - **Streamlit** (Web UI)  
